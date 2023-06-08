@@ -38,8 +38,7 @@ Bubble Sorting. Console Style using C++ Language (CODE)
 
 ## 👨‍💻 **Features**
 - Characters and Numbers Error Trapping
-- Looping
-- Cases
+- For Loop
 <br>
 <!-- ------ -->
 
